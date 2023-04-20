@@ -1,4 +1,4 @@
-# Mitigating-Air-Pollution-Poland
+# Omdena-Mitigating-Air-Pollution-Poland
 
 ### INTRODUCTION
 Air pollution is a growing concern in Poland, with the country consistently ranking among the
